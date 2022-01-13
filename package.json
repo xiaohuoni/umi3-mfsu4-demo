@@ -1,0 +1,17 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@umijs/mfsu": "4.0.0-beta.15",
+    "umi": "^3.5.20",
+    "webpack": "^5.66.0"
+  }
+}

@@ -1,0 +1,8 @@
+/node_modules
+**/.esmi
+**/.mfsu
+**/.umi
+**/.umi-production
+**/dist
+**/node_modules
+
